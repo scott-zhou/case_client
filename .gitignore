@@ -1,0 +1,17 @@
+# Compiled object files and libraries
+*.o
+*.a
+
+# target path
+/libs
+/bin
+
+# QT creator project files
+case_client.config
+case_client.creator
+case_client.creator.user
+case_client.files
+case_client.includes
+
+# vim buffer file
+*~
